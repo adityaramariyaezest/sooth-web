@@ -1,0 +1,11 @@
+{
+  "name": "sooth-web",
+  "version": "1.0.0",
+  "description": "this is sooth shopping site created using web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditya ramariya",
+  "license": "ISC"
+}
